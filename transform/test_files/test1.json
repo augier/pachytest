@@ -1,0 +1,91 @@
+{
+	"desc": "Hull FC v Castleford",
+	"notes": {
+		"essential": null,
+		"promo": null
+	},
+	"linked_event": null,
+	"ev_id": 18965163,
+	"ev_type_id": 272,
+	"ev_class_id": 38,
+	"settled": false,
+	"suspended": false,
+	"started": false,
+	"ev_class_name": "Rugby League",
+	"ev_type_name": "Super League",
+	"start_time": 1456430400,
+	"outright": false,
+	"num_mkts": 3,
+	"market_sort": [
+		"59802368"
+	],
+	"markets": {
+		"59802368": {
+			"ev_mkt_id": 59802368,
+			"bet_in_run": false,
+			"name": "Match Result",
+			"suspended": false,
+			"notes": {
+				"essential": null,
+				"promo": null,
+				"terms": null
+			},
+			"view_type": "standard",
+			"outcome_sort": [
+				"238271754",
+				"238271755",
+				"238271756"
+			],
+			"outcomes": {
+				"238271754": {
+					"ev_oc_id": 238271754,
+					"desc": "Hull FC",
+					"result": "-",
+					"lp_num": "3",
+					"lp_den": "10",
+					"fb_result": "-",
+					"suspended": false,
+					"price_direction": 0,
+					"lp_decimal": 1.3,
+					"has_lp": true,
+					"has_sp": false,
+					"is_void": false,
+					"lp_disp_fraction": "3/10",
+					"lp_disp_decimal": "1.30"
+				},
+				"238271755": {
+					"ev_oc_id": 238271755,
+					"desc": "Drawn Match",
+					"result": "-",
+					"lp_num": "18",
+					"lp_den": "1",
+					"fb_result": "-",
+					"suspended": false,
+					"price_direction": 0,
+					"lp_decimal": 19,
+					"has_lp": true,
+					"has_sp": false,
+					"is_void": false,
+					"lp_disp_fraction": "18/1",
+					"lp_disp_decimal": "19.00"
+				},
+				"238271756": {
+					"ev_oc_id": 238271756,
+					"desc": "Castleford",
+					"result": "-",
+					"lp_num": "5",
+					"lp_den": "2",
+					"fb_result": "-",
+					"suspended": false,
+					"price_direction": 0,
+					"lp_decimal": 3.5,
+					"has_lp": true,
+					"has_sp": false,
+					"is_void": false,
+					"lp_disp_fraction": "5/2",
+					"lp_disp_decimal": "3.50"
+				}
+			}
+		}
+	}
+}

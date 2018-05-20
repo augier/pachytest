@@ -1,0 +1,15 @@
+{
+    "pipeline": {
+      "name": "transformer"
+    },
+    "input": {
+      "atom": {
+        "glob": "/*",
+        "repo": "fixtures"
+      }
+    },
+    "transform": {
+      "cmd": [ "node", "/transformer.js" ],
+      "image": "augier/transform:v0.4"
+    }
+  }

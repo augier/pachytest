@@ -1,0 +1,69 @@
+{
+	"desc": "Tsukuba Robots 18 v 17 Hiroshima Dragonflies",
+	"notes": {
+		"essential": "",
+		"promo": ""
+	},
+	"linked_event": null,
+	"ev_id": 18829342,
+	"ev_type_id": 10006083,
+	"ev_class_id": 28,
+	"settled": false,
+	"suspended": false,
+	"started": true,
+	"ev_class_name": "Basketball",
+	"ev_type_name": "Basketball Live",
+	"start_time": 1453284000,
+	"outright": false,
+	"num_mkts": 55,
+	"market_sort": ["57918405"],
+	"markets": {
+		"57918405": {
+			"ev_mkt_id": 57918405,
+			"bet_in_run": true,
+			"name": "Win Match Including OT",
+			"suspended": false,
+			"notes": {
+				"essential": "",
+				"promo": "",
+				"terms": ""
+			},
+			"view_type": "win-win",
+			"outcome_sort": ["231273339", "231273340"],
+			"outcomes": {
+				"231273339": {
+					"ev_oc_id": 231273339,
+					"desc": "Tsukuba Robots",
+					"result": "-",
+					"lp_num": "5",
+					"lp_den": "4",
+					"fb_result": "-",
+					"suspended": false,
+					"price_direction": -1,
+					"lp_decimal": 2.25,
+					"has_lp": true,
+					"has_sp": false,
+					"is_void": false,
+					"lp_disp_fraction": "5\/4",
+					"lp_disp_decimal": "2.25"
+				},
+				"231273340": {
+					"ev_oc_id": 231273340,
+					"desc": "Hiroshima Dragonflies",
+					"result": "-",
+					"lp_num": "4",
+					"lp_den": "7",
+					"fb_result": "-",
+					"suspended": false,
+					"price_direction": 1,
+					"lp_decimal": 1.5714285714286,
+					"has_lp": true,
+					"has_sp": false,
+					"is_void": false,
+					"lp_disp_fraction": "4\/7",
+					"lp_disp_decimal": "1.57"
+				}
+			}
+		}
+	}
+}
